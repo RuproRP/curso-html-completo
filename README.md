@@ -8,7 +8,7 @@ Curso de HTML Completo
 
 <p align="justify">Los archivos que aparecen en este repositorio serán aquellos que realicé durante el curso de HTML y CSS del Curso de HTML completo desde 0.
 
-<p align="justify">Dichos archivos están divididos en dos carpetas principales (<a href="./TEORIA">TEORIA</a> y <a href="./EJERCICIOS">EJERCICIOS</a>) con los que podrás aprender, practicar o simplemente ojear su contenido.
+<p align="justify">Dichos archivos están divididos en dos carpetas principales (TEORIA y EJERCICIOS) con los que podrás aprender, practicar o simplemente ojear su contenido.
 Como siempre, los ejercicios están resueltos por mí, pero <strong>se agradece cualquier tipo de sugerencia</strong> que se quiera aportar con el objetivo de adquirir mayor conocimiento.</p>
 
 <br>
